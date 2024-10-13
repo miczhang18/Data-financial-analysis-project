@@ -7,6 +7,5 @@ __pycache__/
 *.pyc
 *.pyo
 
-
 # Ignore Mac system files
 .DS_Store
