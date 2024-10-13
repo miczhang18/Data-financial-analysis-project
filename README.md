@@ -2,7 +2,7 @@
 
 ---
 
-### Table of Contents
+### 🌟Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation Guide](#installation-guide)
@@ -19,17 +19,17 @@
 
 ---
 
-### Introduction
+### 🧮Introduction
 This program provides an optimal portfolio solution by analyzing market data for six industries. It calculates the minimum variance portfolio, helping investors make informed decisions.
 
-### Features
+### 💻Features
 - Analyze market conditions of various industries.
 - Calculate the optimal investment ratio for a portfolio.
 - Display expected returns and mean returns for the selected stocks.
 - Handle missing data and ensure data accuracy.
 ---
 
-### Installation Guide
+### 🔍Installation Guide
 1. Clone the repository:
     ```bash
     git clone https://github.com/your-repository/investment-portfolio.git
@@ -104,13 +104,13 @@ The program includes built-in assertions to confirm the accuracy of the final re
 
 ---
 
-## License
+## 🎲License
 
 This project is licensed under the MIT License.
 
 ---
 
-## FAQ
+## 🔗FAQ
 
 **1. What kind of data is required?**  
 The program expects an Excel file with returns data for six industries, each represented as a column.
@@ -120,7 +120,7 @@ It calculates the minimum variance portfolio, displaying the optimal ratio for e
 
 ---
 
-## Contact Information
+## 📨Contact Information
 
 For questions or further information, please contact:
 - Name: Boyan Zhang
