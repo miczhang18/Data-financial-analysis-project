@@ -123,6 +123,6 @@ It calculates the minimum variance portfolio, displaying the optimal ratio for e
 ## 📨Contact Information
 
 For questions or further information, please contact:
-- Name: Boyan Zhang
-- Email: your.email@example.com
+- Name: Michael Zhang
+- Email: bz188@bu.edu
 
